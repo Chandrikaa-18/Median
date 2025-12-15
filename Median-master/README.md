@@ -2,7 +2,7 @@
 
 Median is a Medium application clone that allows users to publish their own stories. Whether amateur or professional, short or extended, Median is the perfect hub for any form of social journalism.
 
-[Click here to visit the website!](https://median-aa.herokuapp.com)
+
 
 ## Technologies
 
